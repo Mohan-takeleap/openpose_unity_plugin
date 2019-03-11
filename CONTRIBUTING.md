@@ -1,0 +1,1 @@
+I am fascinated by this unity plugin of Open Pose. I am also doing a course on deep learning and as far as my job goes OpenCV,OpenGL,VR/AR/MR. So i am into the latest trending technologies that are going to shape our future. I saw an article in which comparison between Open Pose and Wrnch, its so good to read about these marvels. Let me contribute to this with whatever i can.
